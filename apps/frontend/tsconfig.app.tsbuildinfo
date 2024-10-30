@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/router.ts","./src/vite-env.d.ts","./src/components/CreateAppointment.tsx","./src/hooks/useAppointments.ts","./src/hooks/useCurrentTime.ts","./src/pages/index.tsx","./src/providers/index.tsx","./src/types/index.ts","./src/utils/axios.ts","./src/utils/date.ts"],"version":"5.6.3"}
